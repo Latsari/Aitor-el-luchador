@@ -10,13 +10,11 @@
 .parallax { 
 	/* The image used */
 	background-image: url("../images/Aitor1.jpg");
+	background-size:cover;
 	
 	/* Set a specific height */
 	height: 100%;
 	width: 100%;
-	
-	position: relative;
-	overflow: hidden;
 
 	/* Create the parallax scrolling effect */    
 	background-attachment: fixed;    
