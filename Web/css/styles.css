@@ -8,21 +8,22 @@
 }
 
 .parallax { 
-    /* The image used */
-    background-image: url("../images/Aitor1.jpg");
+	/* The image used */
+	background-image: url("../images/Aitor1.jpg");
+	
+	/* Set a specific height */
+	height: 100%;
+	width: 00%;
 
-    /* Set a specific height */
-    height: 100%;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+	/* Create the parallax scrolling effect */    
+	background-attachment: fixed;    
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 body {
-    font-family: 'Conv_LoveSweets', 'Arial', serif;
+	font-family: 'Conv_LoveSweets', 'Arial', serif;
 }
 
 /*
