@@ -1,7 +1,13 @@
- html { 
-			background: url(../images/Aitor1.jpg) no-repeat center center fixed; 
-			-webkit-background-size: cover;
-			-moz-background-size: cover;
-			-o-background-size: cover;
-			background-size: cover;
-		}
+@font-face {
+  font-family: 'LoveSweets';
+  src: url('LoveSweets.ttf');
+}
+
+html { 
+	background: url(../images/Aitor1.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'LoveSweets', 'Arial', serif;
+}
