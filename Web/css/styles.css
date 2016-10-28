@@ -7,6 +7,25 @@
 	font-style: normal;
 }
 
+.parallax { 
+    /* The image used */
+    background-image: url("../images/Aitor1.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    font-family: 'Conv_LoveSweets', 'Arial', serif;
+}
+
+/*
 html { 
 	background: url(../images/Aitor1.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
@@ -18,3 +37,4 @@ html {
 h1, .navbar-nav {
 	font-family: 'Conv_LoveSweets', 'Arial', serif;
 }
+*/
