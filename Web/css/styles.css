@@ -22,10 +22,6 @@ html, body {
     	height: 100%;
 }
 
-body {
-	font-family: 'Conv_LoveSweets', 'Arial', serif;
-}
-
 /*
 html { 
 	background: url(../images/Aitor1.jpg) no-repeat center center fixed; 
@@ -36,6 +32,6 @@ html {
 }
 
 h1, .navbar-nav {
-	font-family: 'Conv_LoveSweets', 'Arial', serif;
+	font-family: 'Conv_DinosaursAreAlive', 'Arial', serif;
 }
 */
