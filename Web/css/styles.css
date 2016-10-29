@@ -1,13 +1,11 @@
 
 @font-face {
-	font-family: 'Conv_LittleMuffins';
-	src: url('../fonts/LittleMuffins.eot');
-	src: url('../fonts/LittleMuffins.woff') format('woff'), url('../fonts/LittleMuffins.ttf') format('truetype'), url('../fonts/LittleMuffins.svg') format('svg');
+	font-family: 'Conv_BlackberryBlues';
+	src: url('../fonts/BlackberryBlues.eot');
+	src: url('../fonts/BlackberryBlues.woff') format('woff'), url('../fonts/BlackberryBlues.ttf') format('truetype'), url('../fonts/BlackberryBlues.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
-
-
 
 .parallax { 
 	background: url("../images/Aitor1.jpg") no-repeat center center fixed; 
@@ -34,6 +32,6 @@ html {
 }
 */
 h1, .navbar-nav {
-	font-family: 'Conv_LittleMuffins', 'Arial', serif;
+	font-family: 'BlackberryBlues', 'Arial', serif;
 }
 
