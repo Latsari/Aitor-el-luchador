@@ -1,11 +1,13 @@
 
 @font-face {
-	font-family: 'Conv_DinosaursAreAlive';
-	src: url('../fonts/DinosaursAreAlive.eot');
-	src: url('../fonts/DinosaursAreAlive.woff') format('woff'), url('../fonts/DinosaursAreAlive.ttf') format('truetype'), url('../fonts/DinosaursAreAlive.svg') format('svg');
+	font-family: 'Conv_LittleMuffins';
+	src: url('../fonts/LittleMuffins.eot');
+	src: url('../fonts/LittleMuffins.woff') format('woff'), url('../fonts/LittleMuffins.ttf') format('truetype'), url('../fonts/LittleMuffins.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
+
+
 
 .parallax { 
 	background: url("../images/Aitor1.jpg") no-repeat center center fixed; 
