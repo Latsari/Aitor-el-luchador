@@ -7,6 +7,7 @@
 	font-style: normal;
 }
 
+
 .parallax { 
 	background: url("../images/Aitor1.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
@@ -30,8 +31,10 @@ html {
 	-o-background-size: cover;
 	background-size: cover;	
 }
-*/
+
 h1, .navbar-nav {
-	font-family: 'BlackberryBlues', 'Arial', serif;
+*/
+body{
+	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 }
 
