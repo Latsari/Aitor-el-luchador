@@ -6,8 +6,6 @@
 	font-weight: normal;
 	font-style: normal;
 }
-
-
 .parallax { 
 	background: url("../images/Aitor1.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
@@ -23,16 +21,25 @@ html, body {
     	height: 100%;
 }
 
-/*
-html { 
-	background: url(../images/Aitor1.jpg) no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;	
-}
-*/
 h1, .navbar-nav {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 }
 
+.scroll-chevron {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    bottom: 30px;
+    left: 50%;
+    -webkit-transform: translateX(-50%) scale(1);
+    -moz-transform: translateX(-50%) scale(1);
+    -ms-transform: translateX(-50%) scale(1);
+    -o-transform: translateX(-50%) scale(1);
+    transform: translateX(-50%) scale(1);
+    -webkit-animation: bounce-chevron 1.4s .4s;
+    -moz-animation: bounce-chevron 1.4s .4s;
+    animation: bounce-chevron 1.4s .4s;
+    -webkit-animation-iteration-count: 3;
+    -moz-animation-iteration-count: 3;
+    animation-iteration-count: 3;
+}
