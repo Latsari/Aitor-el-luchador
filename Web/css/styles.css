@@ -30,6 +30,8 @@ h1, .navbar-nav {
 	
 }
 	
-.navbar-default{
-	background-color: #4E5B5C;
+.navbar-default {
+  background-color: #4E5B5C;
+  border-color: #4E5B5C;
+
 }
