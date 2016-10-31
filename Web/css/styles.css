@@ -17,17 +17,19 @@
 }
 
 body{
-	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
-	
+	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 	
 }
 
 html, body {
-    	height: 100%;
-	
+    	height: 100%;	
 }
 
 h1, .navbar-nav {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: #E14A51; /* #77A193, #4E5B5C
+	
+}
+	
+.navbar-default{
 	background-color: #4E5B5C;
 }
