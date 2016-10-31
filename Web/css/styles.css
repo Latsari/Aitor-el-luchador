@@ -29,20 +29,25 @@ h1, .navbar-header, .navbar-nav {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: #E14A51; /* #77A193, #4E5B5C*/	
 }
-
+/*
 .navbar-default .navbar-nav>li>a{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: #E14A51; /* #77A193, #4E5B5C*/
+} */
+
+.navbar{
+	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
+	background-color:#4E5B5C;
+	border-color: #4E5B5C
 }
-/*	
-.navbar-fondo {
-  background-color: #4E5B5C;
-  border-color: #4E5B5C;
-  color: #E14A51;
-}*/
+
 .alpha60 {
+    /* Fallback for web browsers that don't support RGBa */
+    background-color: rgb(0, 0, 0);
     /* RGBa with 0.6 opacity */
-    background-color:  rgba(0, 0, 0, 0.6); /* rgba(78, 91, 92, 0.6);  #4E5B5C */
+    background-color: rgba(0, 0, 0, 0.6);
+    /* For IE 5.5 - 7*/
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
     /* For IE 8*/
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
 }
