@@ -29,18 +29,18 @@ h1, .navbar-header, .navbar-nav {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: #E14A51; /* #77A193, #4E5B5C*/	
 }
-/*
-.navbar-default .navbar-nav>li>a{
-	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: #E14A51; /* #77A193, #4E5B5C*/
-} */
+
+
 
 .navbar{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	background-color:#4E5B5C;
 	border-color: #4E5B5C
 }
-
+.navbar-default .navbar-nav>li>a{
+	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
+	color: #E14A51; /* #77A193, #4E5B5C*/
+}
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #4E5B5C;
@@ -50,7 +50,7 @@ h1, .navbar-header, .navbar-nav {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #4E5B5C;
-  background-color: #4E5B40;
+  background-color: #77A193;
 }
 
 .alpha60 {
