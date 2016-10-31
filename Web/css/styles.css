@@ -11,15 +11,14 @@
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
-	
+	background-size: cover;	
 	height: calc(100% - 50px);
 	width: 100%;
 }
 
 body{
 	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
-	
+	color: #E14A51;
 }
 
 html, body {
