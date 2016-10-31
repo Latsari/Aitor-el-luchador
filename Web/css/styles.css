@@ -30,7 +30,9 @@ h1, .navbar-header, .navbar-nav {
 	color: #E14A51; /* #77A193, #4E5B5C*/	
 }
 
-
+.jumbotron{
+	background-color:transparent;
+}
 
 .navbar{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
