@@ -22,12 +22,12 @@ body{
 
 html, body {
     	height: 100%;	
+	color: #E14A51;
 }
 
-.navbar-nav, .jumbotron .h1, .jumbotron h1 {
+h1 .navbar-nav, .jumbotron .h1, .jumbotron {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: #E14A51; /* #77A193, #4E5B5C*/
-	
+	color: #E14A51; /* #77A193, #4E5B5C*/	
 }
 	
 .navbar-fondo {
@@ -37,7 +37,7 @@ html, body {
 }
 .alpha60 {
     /* RGBa with 0.6 opacity */
-    background-color: rgba(78, 91, 92, 0.5); /* #4E5B5C */
+    background-color: rgba(78, 91, 92, 0.6); /* #4E5B5C */
     /* For IE 8*/
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
 }
