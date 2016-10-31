@@ -17,6 +17,11 @@
 	width: 100%;
 }
 
+body{
+	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
+	
+}
+
 html, body {
     	height: 100%;
 }
