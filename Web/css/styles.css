@@ -25,7 +25,7 @@ html, body {
 	color: #E14A51;
 }
 
-h1 .navbar-nav, .jumbotron .h1, .jumbotron {
+h1, .navbar-nav, .jumbotron .h1, .jumbotron {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: #E14A51; /* #77A193, #4E5B5C*/	
 }
