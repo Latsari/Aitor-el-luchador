@@ -24,7 +24,7 @@ html, body {
     	height: 100%;	
 }
 
-h1, .navbar-nav {
+.navbar-nav, .jumbotron .h1, .jumbotron h1 {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: #E14A51; /* #77A193, #4E5B5C*/
 	
