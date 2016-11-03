@@ -7,17 +7,13 @@
 	font-style: normal;
 }
 .parallax { 
-	background: url("../images/Aitor1.jpg") no-repeat center center fixed; 
+	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;	
 	height: calc(100% - 50px);
 	width: 100%;
-}
-
-body{
-	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 	
 }
 
 html, body {
@@ -27,7 +23,7 @@ html, body {
 
 h1, .navbar-header, .navbar-nav {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: #E14A51; /* #77A193, #4E5B5C*/	
+	color: #E14A51; /* #77A193, #4E5B5C*/
 }
 
 .jumbotron{
@@ -37,7 +33,8 @@ h1, .navbar-header, .navbar-nav {
 .navbar{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	background-color:#4E5B5C;
-	border-color: #4E5B5C
+	border-color: #4E5B5C;
+	font-size: 2em;
 }
 .navbar-default .navbar-nav>li>a{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
