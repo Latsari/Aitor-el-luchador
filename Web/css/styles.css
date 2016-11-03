@@ -31,9 +31,9 @@
 	-webkit-animation: bounce-chevron 1.4s .4s;
 	-moz-animation: bounce-chevron 1.4s .4s;
 	animation: bounce-chevron 1.4s .4s;
-	-webkit-animation-iteration-count: 3;
-	-moz-animation-iteration-count: 3;
-	animation-iteration-count: 3;
+	-webkit-animation-iteration-count: 33;
+	-moz-animation-iteration-count: 33;
+	animation-iteration-count: 33;
 }
 
 html, body {
