@@ -94,54 +94,54 @@ h1, .navbar-header, .navbar-nav {
 
 @-webkit-keyframes bounce-chevron {
     0% {
-        -webkit-transform: translateX(-50%) scale(1);
+        -webkit-transform: scale(1);
     }
 
     50% {
-        -webkit-transform: translateY(10px) translateX(-50%) scale(1);
+        -webkit-transform: translateY(10px) scale(1);
     }
 
     100% {
-        -webkit-transform: translateX(-50%) scale(1);
+        -webkit-transform: scale(1);
     }
 }
 
 @-moz-keyframes bounce-chevron {
     0% {
-        -moz-transform: translateX(-50%) scale(1);
+        -moz-transform: scale(1);
     }
 
     50% {
-        -moz-transform: translateY(10px) translateX(-50%) scale(1);
+        -moz-transform: translateY(10px) scale(1);
     }
 
     100% {
-        -moz-transform: translateX(-50%) scale(1);
+        -moz-transform: scale(1);
     }
 }
 
 @keyframes bounce-chevron {
     0% {
-        -webkit-transform: translateX(-50%) scale(1);
-        -moz-transform: translateX(-50%) scale(1);
-        -ms-transform: translateX(-50%) scale(1);
-        -o-transform: translateX(-50%) scale(1);
-        transform: translateX(-50%) scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
     }
 
     50% {
-        -webkit-transform: translateY(10px) translateX(-50%) scale(1);
-        -moz-transform: translateY(10px) translateX(-50%) scale(1);
-        -ms-transform: translateY(10px) translateX(-50%) scale(1);
-        -o-transform: translateY(10px) translateX(-50%) scale(1);
-        transform: translateY(10px) translateX(-50%) scale(1);
+        -webkit-transform: translateY(10px) scale(1);
+        -moz-transform: translateY(10px) scale(1);
+        -ms-transform: translateY(10px) scale(1);
+        -o-transform: translateY(10px) scale(1);
+        transform: translateY(10px) scale(1);
     }
 
     100% {
-        -webkit-transform: translateX(-50%) scale(1);
-        -moz-transform: translateX(-50%) scale(1);
-        -ms-transform: translateX(-50%) scale(1);
-        -o-transform: translateX(-50%) scale(1);
-        transform: translateX(-50%) scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
     }
 }
