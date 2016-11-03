@@ -34,6 +34,7 @@
 	-webkit-animation-iteration-count: 33;
 	-moz-animation-iteration-count: 33;
 	animation-iteration-count: 33;
+	color: blue;
 }
 
 html, body {
