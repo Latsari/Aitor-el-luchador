@@ -57,6 +57,10 @@ h1, .navbar-header, .navbar-nav {
   background-color: transparent;
 }
 
+.navbar-default .navbar-brand {
+    color: #E14A51;
+}
+
 .alpha60 {
     /* Fallback for web browsers that don't support RGBa */
     background-color: rgb(0, 0, 0);
