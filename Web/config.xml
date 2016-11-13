@@ -43,42 +43,42 @@
 	<title>Toggle Overlay</title>
     <caption><![CDATA[To hide image overlay on a touch device, tap the screen. On a mouse device, move the mouse ourtside the gallery.]]></caption>
   </image>
-  <image imageURL="images/ejercicios1.jpg"
-	thumbURL="thumbs/ejercicios1.jpg"
-	linkURL="images/ejercicios1.jpg"
+  <image imageURL="images/Ejercicios1.jpg"
+	thumbURL="thumbs/Ejercicios1.jpg"
+	linkURL="images/Ejercicios1.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[Handles images with different aspect ratios. Images can be tall or wide.]]></caption>
   </image>
-  <image imageURL="images/ejercicios2.jpg"
-	thumbURL="thumbs/ejercicios2.jeg"
-	linkURL="images/ejercicios2.jpg"
+  <image imageURL="images/Ejercicios2.jpg"
+	thumbURL="thumbs/Ejercicios2.jeg"
+	linkURL="images/Ejercicios2.jpg"
 	linkTarget="_blank">
 	<title>Smart Preloading</title>
     <caption><![CDATA[Images are pre-loaded in the background to avoid delays when viewing an image.]]></caption>
   </image>
-  <image imageURL="images/ejercicios1.jpg"
-	thumbURL="thumbs/ejercicios1.jpg"
-	linkURL="images/ejercicios1.jpg"
+  <image imageURL="images/Ejercicios1.jpg"
+	thumbURL="thumbs/Ejercicios1.jpg"
+	linkURL="images/Ejercicios1.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[Images can be loaded directly from <a href="http://www.flickr.com">Flickr</a> using a Flickr user name and/or tags.]]></caption>
   </image>
-  <image imageURL="images/ejercicios2.jpg"
-	thumbURL="thumbs/ejercicios2.jpg"
-	linkURL="images/ejercicios2.jpg"
+  <image imageURL="images/Ejercicios2.jpg"
+	thumbURL="thumbs/Ejercicios2.jpg"
+	linkURL="images/Ejercicios2.jpg"
 	linkTarget="_blank">
 	<title>Easy Navigation</title>
     <caption><![CDATA[Navigate through the images by clicking or using the keyboard: Cursor keys and Home, End Keys. On a touch device, swipe to view the next image.]]></caption>
   </image>
-  <image imageURL="images/ejercicios1.jpg"
-	thumbURL="thumbs/ejercicios1.jpg"
-	linkURL="images/ejercicios1.jpg"
+  <image imageURL="images/Ejercicios1.jpg"
+	thumbURL="thumbs/Ejercicios1.jpg"
+	linkURL="images/Ejercicios1.jpg"
 	linkTarget="_blank">
 	<title>Button Bar</title>
     <caption><![CDATA[Supports optional <b>Toggle Thumbnails</b>, <b>Expand Gallery </b> and <b>Open Image</b> buttons in the the Button Bar at top-right.]]></caption>
   </image>
-  <image imageURL="images/ejercicios2.jpg"
-	thumbURL="thumbs/ejercicios2.jpg"
-	linkURL="images/ejercicios2.jpg"
+  <image imageURL="images/Ejercicios2.jpg"
+	thumbURL="thumbs/Ejercicios2.jpg"
+	linkURL="images/Ejercicios2.jpg"
 	linkTarget="_blank">
 	<title>Customizable</title>
     <caption><![CDATA[Modify look and feel by setting configuration options. View available <u><a href="http://www.juicebox.net/support/config_options/" target="_blank">config options</a></u>.]]></caption>
