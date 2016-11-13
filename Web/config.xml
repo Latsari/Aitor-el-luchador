@@ -44,20 +44,20 @@
     <caption><![CDATA[To hide image overlay on a touch device, tap the screen. On a mouse device, move the mouse ourtside the gallery.]]></caption>
   </image>
   <image imageURL="images/Ejercicios.jpg"
-	thumbURL="thumbs/Ejercicios.jpg"
+	thumbURL="thumbs/Ejercicios1.jpg"
 	linkURL="images/Ejercicios.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[Handles images with different aspect ratios. Images can be tall or wide.]]></caption>
   </image>
   <image imageURL="images/Ejercicios2.jpg"
-	thumbURL="thumbs/Ejercicios2.jeg"
+	thumbURL="thumbs/Ejercicios2.jpg"
 	linkURL="images/Ejercicios2.jpg"
 	linkTarget="_blank">
 	<title>Smart Preloading</title>
     <caption><![CDATA[Images are pre-loaded in the background to avoid delays when viewing an image.]]></caption>
   </image>
   <image imageURL="images/Ejercicios.jpg"
-	thumbURL="thumbs/Ejercicios.jpg"
+	thumbURL="thumbs/Ejercicios1.jpg"
 	linkURL="images/Ejercicios.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[Images can be loaded directly from <a href="http://www.flickr.com">Flickr</a> using a Flickr user name and/or tags.]]></caption>
@@ -70,7 +70,7 @@
     <caption><![CDATA[Navigate through the images by clicking or using the keyboard: Cursor keys and Home, End Keys. On a touch device, swipe to view the next image.]]></caption>
   </image>
   <image imageURL="images/Ejercicios.jpg"
-	thumbURL="thumbs/Ejercicios.jpg"
+	thumbURL="thumbs/Ejercicios1.jpg"
 	linkURL="images/Ejercicios.jpg"
 	linkTarget="_blank">
 	<title>Button Bar</title>
