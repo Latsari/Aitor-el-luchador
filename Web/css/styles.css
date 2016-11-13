@@ -21,14 +21,14 @@
     -webkit-animation-delay: 1s; /* Safari 4.0 - 8.0 */
     animation-name: example;
     animation-duration: 1s;
-    -webkit-animation-play-state: paused; /* Safari 4.0 - 8.0 */
-    animation-play-state: paused;
+   /* -webkit-animation-play-state: paused; /* Safari 4.0 - 8.0 */
+    animation-play-state: paused;*/
 }
-	
+/*	
 .texto: hover {
-    -webkit-animation-play-state: running; /* Safari 4.0 - 8.0 */
+    -webkit-animation-play-state: running; 
     animation-play-state: running;
-}
+}*/
 .parallax { 
 	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
