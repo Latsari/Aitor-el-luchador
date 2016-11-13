@@ -45,12 +45,15 @@
 	-webkit-animation-iteration-count: infinite;
 	-moz-animation-iteration-count: infinite;
 	animation-iteration-count: infinite;
+	
 	color: #4E5B5C;
 }
 
 html, body {
     	height: 100%;	
-/*#color: #E14A51;*/
+	color: gray;
+	font-size: 16px;
+	font-family: Verdana;
 }
 
 h1, h2, .navbar-header, .navbar-nav {
