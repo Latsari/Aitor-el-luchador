@@ -3,42 +3,42 @@
 <juiceboxgallery
 	galleryTitle="Juicebox Lite Gallery"
 >
-  <image imageURL="images/aitor1.jpg"
-	thumbURL="thumbs/aitor1.jpg"
-	linkURL="images/aitor1.jpg"
+  <image imageURL="images/Aitor1.jpg"
+	thumbURL="thumbs/Aitor1.jpg"
+	linkURL="images/Aitor1.jpg"
 	linkTarget="_blank">
 	<title>Welcome to Juicebox!</title>
   </image>
-  <image imageURL="images/aitor2.jpg"
-	thumbURL="thumbs/aitor2.jpg"
-	linkURL="images/aitor2.jpg"
+  <image imageURL="images/Aitor2.jpg"
+	thumbURL="thumbs/Aitor2.jpg"
+	linkURL="images/Aitor2.jpg"
 	linkTarget="_blank">
 	<caption><![CDATA[<u><a href="http://www.juicebox.net" target="_blank">Juicebox</a></u> is a free, customizable image gallery. Use it to display your images on any web page in a professional, intuitive and simple way.]]></caption>
   </image>
-  <image imageURL="images/aitor1.jpg"
-	thumbURL="thumbs/aitor1.jpg"
-	linkURL="images/aitor1.jpg"
+  <image imageURL="images/Aitor1.jpg"
+	thumbURL="thumbs/Aitor1.jpg"
+	linkURL="images/Aitor1.jpg"
 	linkTarget="_blank">
     <title>Universal Playback</title>
     <caption>Juicebox can be viewed on Windows, Mac, Linux, iPhone, iPad and Android. It works on all modern browsers all the way back to Internet Explorer 7.</caption>
   </image>
-  <image imageURL="images/aitor2.jpg"
-	thumbURL="thumbs/aitor2.jpg"
-	linkURL="images/aitor2.jpg"
+  <image imageURL="images/Aitor2.jpg"
+	thumbURL="thumbs/Aitor2.jpg"
+	linkURL="images/Aitor2.jpg"
 	linkTarget="_blank">
 	<title>JuiceboxBuilder</title>
 	<caption><![CDATA[Easily create Juicebox galleries using <u><a href="http://www.juicebox.net/tour/juiceboxbuilder/" target="_blank">JuiceboxBuilder</a></u>, our free desktop app.]]></caption>
   </image>
-  <image imageURL="images/aitor1.jpg"
-	thumbURL="thumbs/aitor1.jpg"
-	linkURL="images/aitor1.jpg"
+  <image imageURL="images/Aitor1.jpg"
+	thumbURL="thumbs/Aitor1.jpg"
+	linkURL="images/Aitor1.jpg"
 	linkTarget="_blank">
 	<title>Features</title>
     <caption>Juicebox features intuitive image navigation, smart image pre-loading and a resizable interface that scales to fit the browser window (try resizing your browser).</caption>
   </image>
-  <image imageURL="images/aitor2.jpg"
-	thumbURL="thumbs/aitor2.jpg"
-	linkURL="images/aitor2.jpg"
+  <image imageURL="images/Aitor2.jpg"
+	thumbURL="thumbs/Aitor2.jpg"
+	linkURL="images/Aitor2.jpg"
 	linkTarget="_blank">
 	<title>Toggle Overlay</title>
     <caption><![CDATA[To hide image overlay on a touch device, tap the screen. On a mouse device, move the mouse ourtside the gallery.]]></caption>
