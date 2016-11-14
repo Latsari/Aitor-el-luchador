@@ -13,17 +13,15 @@
     75%  {opacity: 0.75; top:-2.5px}
     100% {opacity: 1.0; top:0px}
 }
-
+/*
 .texto {
      position: relative;
-    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
-    -webkit-animation-delay: 1s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-name: example;
+    -webkit-animation-duration: 1s; 
+    -webkit-animation-delay: 1s;
     animation-name: example;
     animation-duration: 1s;
-   /* -webkit-animation-play-state: paused; 
-    animation-play-state: paused;*/
-}
+}*/
 /*	
 .texto: hover {
     -webkit-animation-play-state: running; 
