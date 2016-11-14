@@ -3,28 +3,28 @@
 <juiceboxgallery
 	galleryTitle="Juicebox Lite Gallery"
 >
-  <image imageURL="images/Aitor1.jpg"
-	thumbURL="thumbs/Aitor1.jpg"
-	linkURL="images/Aitor1.jpg"
+  <image imageURL="images/galeria/Foto1.jpg"
+	thumbURL="images/galeria/thumbs/Foto1.jpg"
+	linkURL="images/galeria/Foto1.jpg"
 	linkTarget="_blank">
 	<title>Welcome to Juicebox!</title>
   </image>
-  <image imageURL="images/Aitor2.jpg"
-	thumbURL="thumbs/Aitor2.jpg"
-	linkURL="images/Aitor2.jpg"
+  <image imageURL="images/galeria/Foto2.jpg"
+	thumbURL="images/galeria/thumbs/Foto2.jpg"
+	linkURL="images/galeria/Foto2.jpg"
 	linkTarget="_blank">
 	<caption><![CDATA[<u><a href="http://www.juicebox.net" target="_blank">Juicebox</a></u> is a free, customizable image gallery. Use it to display your images on any web page in a professional, intuitive and simple way.]]></caption>
   </image>
-  <image imageURL="images/Aitor1.jpg"
-	thumbURL="thumbs/Aitor1.jpg"
-	linkURL="images/Aitor1.jpg"
+   <image imageURL="images/galeria/Foto3.jpg"
+	thumbURL="images/galeria/thumbs/Foto3.jpg"
+	linkURL="images/galeria/Foto3.jpg"
 	linkTarget="_blank">
     <title>Universal Playback</title>
     <caption>Juicebox can be viewed on Windows, Mac, Linux, iPhone, iPad and Android. It works on all modern browsers all the way back to Internet Explorer 7.</caption>
   </image>
-  <image imageURL="images/Aitor2.jpg"
-	thumbURL="thumbs/Aitor2.jpg"
-	linkURL="images/Aitor2.jpg"
+   <image imageURL="images/galeria/Foto4.jpg"
+	thumbURL="images/galeria/thumbs/Foto4.jpg"
+	linkURL="images/galeria/Foto4.jpg"
 	linkTarget="_blank">
 	<title>JuiceboxBuilder</title>
 	<caption><![CDATA[Easily create Juicebox galleries using <u><a href="http://www.juicebox.net/tour/juiceboxbuilder/" target="_blank">JuiceboxBuilder</a></u>, our free desktop app.]]></caption>
