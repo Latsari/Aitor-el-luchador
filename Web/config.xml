@@ -18,25 +18,21 @@
 	thumbURL="images/galeria/thumbs/Foto3.jpg"
 	linkURL="images/galeria/Foto3.jpg"
 	linkTarget="_blank">
-    <title>Universal Playback</title>
    </image>
    <image imageURL="images/galeria/Foto4.jpg"
 	thumbURL="images/galeria/thumbs/Foto4.jpg"
 	linkURL="images/galeria/Foto4.jpg"
 	linkTarget="_blank">
-	<title>JuiceboxBuilder</title>
   </image>
    <image imageURL="images/galeria/Foto5.jpg"
 	thumbURL="images/galeria/thumbs/Foto5.jpg"
 	linkURL="images/galeria/Foto5.jpg"
 	linkTarget="_blank">
-	<title>Features</title>
     </image>
   <image imageURL="images/galeria/Foto6.jpg"
 	thumbURL="images/galeria/thumbs/Foto6.jpg"
 	linkURL="images/galeria/Foto6.jpg"
 	linkTarget="_blank">
-	<title>Toggle Overlay</title>
     </image>
   <image imageURL="images/galeria/Foto7.jpg"
 	thumbURL="images/galeria/thumbs/Foto7.jpg"
@@ -47,7 +43,6 @@
 	thumbURL="images/galeria/thumbs/Foto8.jpg"
 	linkURL="images/galeria/Foto8.jpg"
 	linkTarget="_blank">
-	<title>Smart Preloading</title>
    </image>
    <image imageURL="images/galeria/Foto9.jpg"
 	thumbURL="images/galeria/thumbs/Foto9.jpg"
@@ -58,7 +53,6 @@
 	thumbURL="images/galeria/thumbs/Foto10.jpg"
 	linkURL="images/galeria/Foto10.jpg"
 	linkTarget="_blank">
-	<title>Easy Navigation</title>
     </image>
    <image imageURL="images/galeria/Foto11.jpg"
 	thumbURL="images/galeria/thumbs/Foto11.jpg"
@@ -74,25 +68,21 @@
 	thumbURL="images/galeria/thumbs/Foto13.jpg"
 	linkURL="images/galeria/Foto13.jpg"
 	linkTarget="_blank">
-    <title>Universal Playback</title>
    </image>
    <image imageURL="images/galeria/Foto14.jpg"
 	thumbURL="images/galeria/thumbs/Foto14.jpg"
 	linkURL="images/galeria/Foto14.jpg"
 	linkTarget="_blank">
-	<title>JuiceboxBuilder</title>
   </image>
    <image imageURL="images/galeria/Foto15.jpg"
 	thumbURL="images/galeria/thumbs/Foto15.jpg"
 	linkURL="images/galeria/Foto15.jpg"
 	linkTarget="_blank">
-	<title>Features</title>
    </image>
   <image imageURL="images/galeria/Foto16.jpg"
 	thumbURL="images/galeria/thumbs/Foto16.jpg"
 	linkURL="images/galeria/Foto16.jpg"
 	linkTarget="_blank">
-	<title>Toggle Overlay</title>
      </image>
   <image imageURL="images/galeria/Foto17.jpg"
 	thumbURL="images/galeria/thumbs/Foto17.jpg"
@@ -103,7 +93,6 @@
 	thumbURL="images/galeria/thumbs/Foto18.jpg"
 	linkURL="images/galeria/Foto18.jpg"
 	linkTarget="_blank">
-	<title>Smart Preloading</title>
     </image>
    <image imageURL="images/galeria/Foto19.jpg"
 	thumbURL="images/galeria/thumbs/Foto19.jpg"
@@ -113,7 +102,6 @@
   <image imageURL="images/galeria/Foto20.jpg"
 	thumbURL="images/galeria/thumbs/Foto20.jpg"
 	linkURL="images/galeria/Foto20.jpg"
-	linkTarget="_blank">
-	<title>Easy Navigation</title>    
+	linkTarget="_blank">  
   </image> 
 </juiceboxgallery>
