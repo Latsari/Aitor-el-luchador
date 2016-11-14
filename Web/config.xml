@@ -29,59 +29,111 @@
 	<title>JuiceboxBuilder</title>
 	<caption><![CDATA[Easily create Juicebox galleries using <u><a href="http://www.juicebox.net/tour/juiceboxbuilder/" target="_blank">JuiceboxBuilder</a></u>, our free desktop app.]]></caption>
   </image>
-  <image imageURL="images/Aitor1.jpg"
-	thumbURL="thumbs/Aitor1.jpg"
-	linkURL="images/Aitor1.jpg"
+   <image imageURL="images/galeria/Foto5.jpg"
+	thumbURL="images/galeria/thumbs/Foto5.jpg"
+	linkURL="images/galeria/Foto5.jpg"
 	linkTarget="_blank">
 	<title>Features</title>
     <caption>Juicebox features intuitive image navigation, smart image pre-loading and a resizable interface that scales to fit the browser window (try resizing your browser).</caption>
   </image>
-  <image imageURL="images/Aitor2.jpg"
-	thumbURL="thumbs/Aitor2.jpg"
-	linkURL="images/Aitor2.jpg"
+  <image imageURL="images/galeria/Foto6.jpg"
+	thumbURL="images/galeria/thumbs/Foto6.jpg"
+	linkURL="images/galeria/Foto6.jpg"
 	linkTarget="_blank">
 	<title>Toggle Overlay</title>
     <caption><![CDATA[To hide image overlay on a touch device, tap the screen. On a mouse device, move the mouse ourtside the gallery.]]></caption>
   </image>
-  <image imageURL="images/Ejercicios.jpg"
-	thumbURL="thumbs/Ejercicios1.jpg"
-	linkURL="images/Ejercicios.jpg"
+  <image imageURL="images/galeria/Foto7.jpg"
+	thumbURL="images/galeria/thumbs/Foto7.jpg"
+	linkURL="images/galeria/Foto7.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[Handles images with different aspect ratios. Images can be tall or wide.]]></caption>
   </image>
-  <image imageURL="images/Ejercicios2.jpg"
-	thumbURL="thumbs/Ejercicios2.jpg"
-	linkURL="images/Ejercicios2.jpg"
+   <image imageURL="images/galeria/Foto8.jpg"
+	thumbURL="images/galeria/thumbs/Foto8.jpg"
+	linkURL="images/galeria/Foto8.jpg"
 	linkTarget="_blank">
 	<title>Smart Preloading</title>
     <caption><![CDATA[Images are pre-loaded in the background to avoid delays when viewing an image.]]></caption>
   </image>
-  <image imageURL="images/Ejercicios.jpg"
-	thumbURL="thumbs/Ejercicios1.jpg"
-	linkURL="images/Ejercicios.jpg"
+   <image imageURL="images/galeria/Foto9.jpg"
+	thumbURL="images/galeria/thumbs/Foto9.jpg"
+	linkURL="images/galeria/Foto9.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[Images can be loaded directly from <a href="http://www.flickr.com">Flickr</a> using a Flickr user name and/or tags.]]></caption>
   </image>
-  <image imageURL="images/Ejercicios2.jpg"
-	thumbURL="thumbs/Ejercicios2.jpg"
-	linkURL="images/Ejercicios2.jpg"
+  <image imageURL="images/galeria/Foto10.jpg"
+	thumbURL="images/galeria/thumbs/Foto10.jpg"
+	linkURL="images/galeria/Foto10.jpg"
 	linkTarget="_blank">
 	<title>Easy Navigation</title>
     <caption><![CDATA[Navigate through the images by clicking or using the keyboard: Cursor keys and Home, End Keys. On a touch device, swipe to view the next image.]]></caption>
   </image>
-  <image imageURL="images/Ejercicios.jpg"
-	thumbURL="thumbs/Ejercicios1.jpg"
-	linkURL="images/Ejercicios.jpg"
+   <image imageURL="images/galeria/Foto11.jpg"
+	thumbURL="images/galeria/thumbs/Foto11.jpg"
+	linkURL="images/galeria/Foto11.jpg"
 	linkTarget="_blank">
-	<title>Button Bar</title>
-    <caption><![CDATA[Supports optional <b>Toggle Thumbnails</b>, <b>Expand Gallery </b> and <b>Open Image</b> buttons in the the Button Bar at top-right.]]></caption>
+	<title>Welcome to Juicebox!</title>
   </image>
-  <image imageURL="images/Ejercicios2.jpg"
-	thumbURL="thumbs/Ejercicios2.jpg"
-	linkURL="images/Ejercicios2.jpg"
+  <image imageURL="images/galeria/Foto12.jpg"
+	thumbURL="images/galeria/thumbs/Foto12.jpg"
+	linkURL="images/galeria/Foto12.jpg"
 	linkTarget="_blank">
-	<title>Customizable</title>
-    <caption><![CDATA[Modify look and feel by setting configuration options. View available <u><a href="http://www.juicebox.net/support/config_options/" target="_blank">config options</a></u>.]]></caption>
+	<caption><![CDATA[<u><a href="http://www.juicebox.net" target="_blank">Juicebox</a></u> is a free, customizable image gallery. Use it to display your images on any web page in a professional, intuitive and simple way.]]></caption>
+  </image>
+   <image imageURL="images/galeria/Foto13.jpg"
+	thumbURL="images/galeria/thumbs/Foto13.jpg"
+	linkURL="images/galeria/Foto13.jpg"
+	linkTarget="_blank">
+    <title>Universal Playback</title>
+    <caption>Juicebox can be viewed on Windows, Mac, Linux, iPhone, iPad and Android. It works on all modern browsers all the way back to Internet Explorer 7.</caption>
+  </image>
+   <image imageURL="images/galeria/Foto14.jpg"
+	thumbURL="images/galeria/thumbs/Foto14.jpg"
+	linkURL="images/galeria/Foto14.jpg"
+	linkTarget="_blank">
+	<title>JuiceboxBuilder</title>
+	<caption><![CDATA[Easily create Juicebox galleries using <u><a href="http://www.juicebox.net/tour/juiceboxbuilder/" target="_blank">JuiceboxBuilder</a></u>, our free desktop app.]]></caption>
+  </image>
+   <image imageURL="images/galeria/Foto15.jpg"
+	thumbURL="images/galeria/thumbs/Foto15.jpg"
+	linkURL="images/galeria/Foto15.jpg"
+	linkTarget="_blank">
+	<title>Features</title>
+    <caption>Juicebox features intuitive image navigation, smart image pre-loading and a resizable interface that scales to fit the browser window (try resizing your browser).</caption>
+  </image>
+  <image imageURL="images/galeria/Foto16.jpg"
+	thumbURL="images/galeria/thumbs/Foto16.jpg"
+	linkURL="images/galeria/Foto16.jpg"
+	linkTarget="_blank">
+	<title>Toggle Overlay</title>
+    <caption><![CDATA[To hide image overlay on a touch device, tap the screen. On a mouse device, move the mouse ourtside the gallery.]]></caption>
+  </image>
+  <image imageURL="images/galeria/Foto17.jpg"
+	thumbURL="images/galeria/thumbs/Foto17.jpg"
+	linkURL="images/galeria/Foto17.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Handles images with different aspect ratios. Images can be tall or wide.]]></caption>
+  </image>
+   <image imageURL="images/galeria/Foto18.jpg"
+	thumbURL="images/galeria/thumbs/Foto18.jpg"
+	linkURL="images/galeria/Foto18.jpg"
+	linkTarget="_blank">
+	<title>Smart Preloading</title>
+    <caption><![CDATA[Images are pre-loaded in the background to avoid delays when viewing an image.]]></caption>
+  </image>
+   <image imageURL="images/galeria/Foto19.jpg"
+	thumbURL="images/galeria/thumbs/Foto19.jpg"
+	linkURL="images/galeria/Foto19.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Images can be loaded directly from <a href="http://www.flickr.com">Flickr</a> using a Flickr user name and/or tags.]]></caption>
+  </image>
+  <image imageURL="images/galeria/Foto20.jpg"
+	thumbURL="images/galeria/thumbs/Foto20.jpg"
+	linkURL="images/galeria/Foto20.jpg"
+	linkTarget="_blank">
+	<title>Easy Navigation</title>
+    <caption><![CDATA[Navigate through the images by clicking or using the keyboard: Cursor keys and Home, End Keys. On a touch device, swipe to view the next image.]]></caption>
   </image>
  
 </juiceboxgallery>
