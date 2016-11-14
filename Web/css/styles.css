@@ -14,15 +14,16 @@
     75%  {opacity: 0.75; top:-2.5px}
     100% {opacity: 1.0; top:0px}
 }
-
+*/
 .texto {
-     position: relative;
+    font-family: 'Quicksand', sans-serif;
+    /* position: relative;
     -webkit-animation-name: example;
     -webkit-animation-duration: 1s; 
     -webkit-animation-delay: 1s;
     animation-name: example;
-    animation-duration: 1s;
-}*/
+    animation-duration: 1s;*/
+}
 /*	
 .texto: hover {
     -webkit-animation-play-state: running; 
