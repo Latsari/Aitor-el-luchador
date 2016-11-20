@@ -8,20 +8,20 @@ $(function() {
   // end nav
   
   // velocidad parallax
-  var parallax = document.querySelectorAll(".parallaxSecundario"),
+ /* var parallax = document.querySelectorAll(".parallaxSecundario"),
       speed = 0.5;
 
   window.onscroll = function(){
     [].slice.call(parallax).forEach(function(el,i){
 
-      var windowYOffset = el.offsetTop,//window.pageYOffset,
+      var windowYOffset = window.pageYOffset,
           elBackgrounPos = "0 " + (windowYOffset * speed) + "px";
 
       alert(elBackgrounPos);
       el.style.backgroundPosition = elBackgrounPos;
 
     });
-  };
+  };*/
   // end velocidad parallax
   
   
