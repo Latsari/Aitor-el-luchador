@@ -14,7 +14,7 @@ $(function() {
   window.onscroll = function(){
     [].slice.call(parallax).forEach(function(el,i){
 
-      var windowYOffset = window.pageYOffset,
+      var windowYOffset = el.offsetTop,//window.pageYOffset,
           elBackgrounPos = "0 " + (windowYOffset * speed) + "px";
 
       alert(elBackgrounPos);
