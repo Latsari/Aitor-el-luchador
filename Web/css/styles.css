@@ -6,36 +6,19 @@
 	font-weight: normal;
 	font-style: normal;
 }
-/*
-@keyframes example {
-    0%   {opacity: 0.0; top:-10px}    
-    25%  {opacity: 0.25; top:-7.5px}
-    50%  {opacity: 0.5; top:-5px}
-    75%  {opacity: 0.75; top:-2.5px}
-    100% {opacity: 1.0; top:0px}
-}
-*/
+a { border-bottom: 1px #fff;-webkit-transition: all 100ms ease-out;transition: all 100ms ease-out;text-decoration: none;}
+
 .texto {
     font-family: 'Quicksand', sans-serif;
-    /* position: relative;
-    -webkit-animation-name: example;
-    -webkit-animation-duration: 1s; 
-    -webkit-animation-delay: 1s;
-    animation-name: example;
-    animation-duration: 1s;*/
 }
-/*	
-.texto: hover {
-    -webkit-animation-play-state: running; 
-    animation-play-state: running;
-}*/
+
 .parallax { 
 	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;	
-	height: calc(100% - 50px);
+	height: 40%;
 	width: 100%;
 	position: relative;
 }
@@ -46,7 +29,7 @@
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;	
-	height: calc(100% - 70px);
+	height: 40%;
 	width: 100%;
 	position: relative;
 }
@@ -67,8 +50,7 @@
 	animation: bounce-chevron 1.4s .4s;
 	-webkit-animation-iteration-count: infinite;
 	-moz-animation-iteration-count: infinite;
-	animation-iteration-count: infinite;
-	
+	animation-iteration-count: infinite;	
 	color: #4E5B5C;
 }
 
@@ -104,6 +86,7 @@ h1, h2, .navbar-header, .navbar-nav {
   color: #77A193;
   background-color: transparent;
 }
+
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
