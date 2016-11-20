@@ -22,7 +22,7 @@
 	position: relative;
 }
 
-.parallax2 { 
+.parallaxSecundario { 
 	background: url("../images/Aitor1.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
