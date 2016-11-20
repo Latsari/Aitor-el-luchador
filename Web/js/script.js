@@ -15,7 +15,7 @@ $(function() {
     [].slice.call(parallax).forEach(function(el,i){
 
       var windowYOffset = window.pageYOffset,
-          elBackgrounPos = "80% " + (windowYOffset * speed) + "px";
+          elBackgrounPos = "10% " + (windowYOffset * speed) + "px";
 
       el.style.backgroundPosition = elBackgrounPos;
 
