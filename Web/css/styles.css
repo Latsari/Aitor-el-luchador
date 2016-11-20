@@ -18,7 +18,7 @@ a { border-bottom: 1px #fff;-webkit-transition: all 100ms ease-out;transition: a
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;	
-	height: calc(100% -30px);
+	height: calc(100% - 30);
 	width: 100%;
 	position: relative;
 }
