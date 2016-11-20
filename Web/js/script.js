@@ -8,7 +8,7 @@ $(function() {
   // end nav
   
   // velocidad parallax
-  var parallax = document.querySelectorAll(".parallax"),
+  var parallax = document.querySelectorAll(".parallaxSecundario"),
       speed = 0.5;
 
   window.onscroll = function(){
