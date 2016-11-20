@@ -15,8 +15,9 @@ $(function() {
     [].slice.call(parallax).forEach(function(el,i){
 
       var windowYOffset = window.pageYOffset,
-          elBackgrounPos = "10% " + (windowYOffset * speed) + "px";
-
+          elBackgrounPos = "50% " + (windowYOffset * speed) + "px";
+alert(windowYOffset + " * " + speed);
+      alert(elBackgrounPos);
       el.style.backgroundPosition = elBackgrounPos;
 
     });
