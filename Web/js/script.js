@@ -16,7 +16,7 @@ $(function() {
 
       var windowYOffset = window.pageYOffset,
           elBackgrounPos = "0 " + (windowYOffset * speed) + "px";
-alert(windowYOffset + " * " + speed);
+
       alert(elBackgrounPos);
       el.style.backgroundPosition = elBackgrounPos;
 
