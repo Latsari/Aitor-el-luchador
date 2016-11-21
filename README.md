@@ -2,6 +2,8 @@
 
 http://latsari.github.io/Aitor-el-luchador/
 
+http://latsari.github.io/Aitor-el-luchador/Web
+
 # Contenido a revisar
 
 http://pixelcog.github.io/parallax.js/
