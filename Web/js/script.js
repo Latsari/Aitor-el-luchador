@@ -1,20 +1,22 @@
 $(function() {
   
   // nav
+  // nav clase
   $(".nav a").on("click", function(){
    $(".nav").find(".active").removeClass("active");
    $(this).parent().addClass("active");
 });
   
+  // nav tag
   $('nav').affix({
     offset: {
-        top: $('.parallax').height()
+        top: $('#imagen-inicial').height()
     }
 });
   // end nav
   
   // velocidad parallax
- /* var parallax = document.querySelectorAll(".parallaxSecundario"),
+ /* var parallax = document.querySelectorAll(".parallax"),
       speed = 0.5;
 
   window.onscroll = function(){
