@@ -30,10 +30,13 @@
 	position: relative;
 }
 
+.parallax {
+    background: transparent;
+    width: 100%;	
+}
+
 .parallax-window-1 { 
     height: 50%;
-    background: transparent;
-    width: 100%;
 }
 
 .flecha-animada {
