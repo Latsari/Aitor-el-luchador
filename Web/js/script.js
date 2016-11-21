@@ -15,6 +15,8 @@ $(document).ready(function() {
 });
   // end nav
   
+  $('.parallax-window').parallax({imageSrc: 'images/Aitor1.jpg'});
+  
   // velocidad parallax
  /* var parallax = document.querySelectorAll(".parallax"),
       speed = 0.5;
