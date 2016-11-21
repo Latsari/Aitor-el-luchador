@@ -1,7 +1,21 @@
-$( window ).load( function() {
-
-    $( '.sldr' ).each( function() {
-        var th = $( this );
+$(document).ready(function() {  
+  // nav
+  // nav clase
+  $(".nav a").on("click", function(){
+   $(".nav").find(".active").removeClass("active");
+   $(this).parent().addClass("active");
+});
+  
+  // nav tag
+  $('nav').affix({
+    offset: {
+        top: $('#imagen-inicial').height()
+    }
+});
+  // end nav
+    
+    $('.sldr').each(function() {
+        var th = $(this);
         th.sldr({
             focalClass    : 'focalPoint',
             offset        : th.width() / 2,
@@ -19,25 +33,6 @@ $( window ).load( function() {
             hasChange     : true
         });
     });
-
-});
-
-$(document).ready(function() {
-  
-  // nav
-  // nav clase
-  $(".nav a").on("click", function(){
-   $(".nav").find(".active").removeClass("active");
-   $(this).parent().addClass("active");
-});
-  
-  // nav tag
-  $('nav').affix({
-    offset: {
-        top: $('#imagen-inicial').height()
-    }
-});
-  // end nav
   
   $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
   
