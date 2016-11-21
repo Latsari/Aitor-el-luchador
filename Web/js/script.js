@@ -6,9 +6,9 @@ $(function() {
    $(this).parent().addClass("active");
 });
   
-  $('#nav').affix({
+  $('nav').affix({
     offset: {
-        top: $('#nav').offset().top
+        top: $('nav').offset().top
     }
 });
   // end nav
