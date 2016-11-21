@@ -198,6 +198,7 @@ h1, h2, .navbar-header, .navbar-nav {
 footer {
 	background-color: #4E5B5C !important;
 	color: #E14A51 !important;
+	font-size: 14px;
 }
 
 @-webkit-keyframes bounce-chevron {
