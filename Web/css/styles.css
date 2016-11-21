@@ -107,6 +107,42 @@ div.skew > div.wrap {
 	width: 122%;
 }
 
+.selectors {
+	/*margin: 15px 0 0;*/
+}
+
+.selectors li {
+	font-size: 46px;
+	line-height: 32px;
+	display: inline;
+	padding: 0 2px;	
+}
+
+.selectors li a {
+	text-decoration: none;
+}
+
+.selectors li.focalPoint a {
+	color: #CCC;
+	cursor: default;
+}
+
+.captions div {
+	left: 200%;
+	position: fixed;
+	opacity: 0;
+
+	-webkit-transition: opacity 0.75s cubic-bezier(0.860, 0.000, 0.070, 1.000); 
+       -moz-transition: opacity 0.75s cubic-bezier(0.860, 0.000, 0.070, 1.000); 
+         -o-transition: opacity 0.75s cubic-bezier(0.860, 0.000, 0.070, 1.000); 
+            transition: opacity 0.75s cubic-bezier(0.860, 0.000, 0.070, 1.000); /* ease-in-out */
+}
+
+.captions div.focalPoint {
+	opacity: 1;
+	left: inherit;
+	position: static;
+}
 
 html, body {
     	height: 100%;	
