@@ -30,15 +30,9 @@
 	position: relative;
 }
 
-.parallax { 
-	background: url("../images/Aitor1.jpg") no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;	
+.parallax1 { 
 	height: 50%;
 	width: 100%;
-	position: relative;
 }
 
 .flecha-animada {
