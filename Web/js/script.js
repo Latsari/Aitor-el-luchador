@@ -24,10 +24,10 @@ $(document).ready(function() {
             previousSlide : th.nextAll( '.sldr-nav.prev:first' ),
             selectors     : th.nextAll( '.selectors:first' ).find( 'li' ),
             toggle        : th.nextAll( '.captions:first' ).find( 'div' ),
-            sldrInit      : sldrInit,
-            sldrStart     : sldrStart,
-            sldrComplete  : sldrComplete,
-            sldrLoaded    : sldrLoaded,
+            /*sldrInit      : function() {},
+            sldrStart     : function() {},
+            sldrComplete  : function() {},
+            sldrLoaded    : function() {},*/
             sldrAuto      : true,
             sldrTime      : 2000,
             hasChange     : true
