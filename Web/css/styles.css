@@ -30,6 +30,11 @@
 	position: relative;
 }
 
+.parallax-window {
+    /*min-height: 400px;*/
+    background: transparent;
+}
+
 .parallax1 { 
 	height: 50%;
 	width: 100%;
