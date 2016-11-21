@@ -8,7 +8,7 @@ $(function() {
   
   $('nav').affix({
     offset: {
-        top: $('#parallax').height()
+        top: $('.parallax').height()
     }
 });
   // end nav
