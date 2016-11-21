@@ -192,6 +192,10 @@ h1, h2, .navbar-header, .navbar-nav {
  border-bottom: 1px #fff;-webkit-transition: all 100ms ease-out;transition: all 100ms ease-out;text-decoration: none;}
 }
 
+footer {
+	background-color: grey;
+}
+
 @-webkit-keyframes bounce-chevron {
     0% {
         -webkit-transform: scale(1);
