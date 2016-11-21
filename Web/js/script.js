@@ -5,6 +5,12 @@ $(function() {
    $(".nav").find(".active").removeClass("active");
    $(this).parent().addClass("active");
 });
+  
+  $('#nav').affix({
+    offset: {
+        top: $('#nav').offset().top
+    }
+});
   // end nav
   
   // velocidad parallax
