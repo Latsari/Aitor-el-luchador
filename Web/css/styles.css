@@ -59,6 +59,28 @@
 	color: #4E5B5C;
 }
 
+.sldr {
+    max-width: 825px;
+    margin: 0 auto;
+    overflow: visible;
+    position: relative;
+    clear: both;
+    display: block;
+}
+
+.sldr > ul.animate {
+    -webkit-transition: margin 0.75s cubic-bezier(0.860, 0.000, 0.070, 1.000); 
+       -moz-transition: margin 0.75s cubic-bezier(0.860, 0.000, 0.070, 1.000); 
+         -o-transition: margin 0.75s cubic-bezier(0.860, 0.000, 0.070, 1.000); 
+            transition: margin 0.75s cubic-bezier(0.860, 0.000, 0.070, 1.000); /* ease-in-out */    
+}
+
+.sldr > ul > li {
+    float: left;
+    display: block;
+    width: 825px;
+}
+
 html, body {
     	height: 100%;	
 	color: gray;
