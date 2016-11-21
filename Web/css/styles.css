@@ -192,7 +192,7 @@ h1, h2, .navbar-header, .navbar-nav {
  border-bottom: 1px #fff;-webkit-transition: all 100ms ease-out;transition: all 100ms ease-out;text-decoration: none;}
 }
 
-footer {
+.footer {
 	background-color: #4E5B5C;
 	color: #FFFFFF;
 }
