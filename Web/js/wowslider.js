@@ -27,8 +27,9 @@ jQuery.fn.wowSlider=function(t){function e(t){return I.css({left:-t+"00%"})}func
 
 	// all effects list
 	var allEfects = "turn|shift|cube_over|louvers|lines|carousel|dribbles|parallax|brick|collage|basic|basic_linear|blast|blinds|blur|book|bubbles|carousel_basic|cube|domino|fade|flip|fly|glass_parallax|kenburns|page|photo|rotate|seven|slices|squares|stack|stack_vertical|tv".split("|");
-var SITE_URL = 'http://wowslider.com/'; // TODO
-	var effectsPath = (SITE_URL || 'http://wowslider.com/')+'images/effects/';
+        // var SITE_URL = 'http://wowslider.com/'; // TODO
+	// var effectsPath = (SITE_URL || 'http://wowslider.com/')+'images/effects/';
+	var effectsPath = 'images/effects/';
 
 	// create effects buttons
 	// @callback = function(effect)
