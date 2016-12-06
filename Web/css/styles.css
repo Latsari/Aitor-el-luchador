@@ -21,12 +21,14 @@
 
 .bw {
   -webkit-transition: all 1s ease;
-  -moz-transition: all 1s ease;
-  -o-transition: all 1s ease;
-  -ms-transition: all 1s ease;
-  transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
 }
-
+.bw:hover {
+  -webkit-filter: grayscale(100%);
+}
 .pic {
     height: 200px;
     width: 100%;
@@ -37,7 +39,9 @@
     box-shadow: 5px 5px 5px #111;
     float: left;
 }
-
+.pic:hover {
+  cursor: pointer;
+}
 #imagen-inicial { 
 	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
