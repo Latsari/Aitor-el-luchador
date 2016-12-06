@@ -18,7 +18,13 @@
 .texto {
     font-family: 'Quicksand', sans-serif;
 }
-
+.bw {
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
 #imagen-inicial { 
 	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
