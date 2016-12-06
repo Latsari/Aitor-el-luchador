@@ -1,6 +1,6 @@
 // Layout
 body { text-align: center; background: #48cfad; color: #fff; }
-a { color: gray; border-bottom: 1px #fff; -webkit-transition: all 100ms ease-out; transition: all 100ms ease-out; text-decoration: none; }
+a { color: gray; border-bottom: 1px #fff; -webkit-transition: all 100ms ease-out; transition: all 100ms ease-out; text-decoration: underline; }
 .block { width: 31.33%; margin: 1%; float: left; }
 a:hover { border-bottom: 1px solid; }
 h3 { margin-top: 850px; }
