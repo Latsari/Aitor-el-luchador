@@ -2,7 +2,7 @@
 body { text-align: center; background: #48cfad; color: #fff; }
 a { color: gray; border-bottom: 1px #fff; -webkit-transition: all 100ms ease-out; transition: all 100ms ease-out; text-decoration: underline; }
 li>a { color: gray; border-bottom: 1px #fff; -webkit-transition: all 100ms ease-out; transition: all 100ms ease-out; text-decoration: none; }
-a:hover { border-bottom: 1px solid; }
+a:hover { color: #E14A51 }
 h3 { margin-top: 850px; }
 
 .marged { margin-top: 100px;}
