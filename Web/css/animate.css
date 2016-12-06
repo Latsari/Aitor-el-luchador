@@ -1,11 +1,12 @@
 // Layout
 body { text-align: center; background: #48cfad; color: #fff; }
 a { color: gray; border-bottom: 1px #fff; -webkit-transition: all 100ms ease-out; transition: all 100ms ease-out; text-decoration: underline; }
-.block { width: 31.33%; margin: 1%; float: left; }
+li>a { color: gray; border-bottom: 1px #fff; -webkit-transition: all 100ms ease-out; transition: all 100ms ease-out; text-decoration: none; }
 a:hover { border-bottom: 1px solid; }
 h3 { margin-top: 850px; }
-.marged { margin-top: 100px;}
 
+.marged { margin-top: 100px;}
+.block { width: 31.33%; margin: 1%; float: left; }
 // Reveal on scroll
 .revealOnScroll { opacity: 0; }
 
