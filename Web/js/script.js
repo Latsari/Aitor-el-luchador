@@ -11,7 +11,7 @@ $(document).ready(function() {
     offset: {
         top: $('#imagen-inicial').height()
     }
-});
+  });
   // end nav
   
   $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
@@ -54,6 +54,16 @@ $(document).ready(function() {
 
   if (isTouch) { $('.revealOnScroll').addClass('animated'); }
 
+  $( window ).resize(resize);
+  
+  function resize() {
+     $('nav').affix({
+      offset: {
+          top: $('#imagen-inicial').height()
+      }
+     });
+  };  
+  
   $window.on('scroll', revealOnScroll);
 
   function revealOnScroll() {
