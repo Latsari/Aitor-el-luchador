@@ -54,9 +54,9 @@ $(document).ready(function() {
 
   if (isTouch) { $('.revealOnScroll').addClass('animated'); }
 
-  $window.on('resize', resize);
+  $window.on('resize', resizeAdapt);
   
-  function resize() {
+  function resizeAdapt() {
      $('nav').affix({
       offset: {
           top: $('#imagen-inicial').height()
