@@ -20,7 +20,7 @@
 	width: 100%;
 	max-width:960px;
 	max-height:360px;
-	margin:0px auto 0px;
+	margin:0px 0px 0px 0px;
 	z-index:90;
 	border:none;
 	text-align:left; /* reset align=center */
