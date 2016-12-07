@@ -12,6 +12,16 @@ $(document).ready(function() {
         top: $('#imagen-inicial').height()
     }
   });
+  
+  $(window).on('resize', resizeAdapt);
+  
+  function resizeAdapt() {
+     $('nav').affix({
+      offset: {
+          top: $('#imagen-inicial').height()
+      }
+     });
+  };  
   // end nav
   
   $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
@@ -53,16 +63,6 @@ $(document).ready(function() {
       isTouch           = Modernizr.touch;
 
   if (isTouch) { $('.revealOnScroll').addClass('animated'); }
-
-  $window.on('resize', resizeAdapt);
-  
-  function resizeAdapt() {
-     $('nav').affix({
-      offset: {
-          top: $('#imagen-inicial').height()
-      }
-     });
-  };  
   
   $window.on('scroll', revealOnScroll);
 
