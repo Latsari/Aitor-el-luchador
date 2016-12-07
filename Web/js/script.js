@@ -54,7 +54,7 @@ $(document).ready(function() {
 
   if (isTouch) { $('.revealOnScroll').addClass('animated'); }
 
-  $( window ).resize(resize);
+  $window.on('resize', resize);
   
   function resize() {
      $('nav').affix({
