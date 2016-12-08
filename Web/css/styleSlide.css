@@ -205,7 +205,7 @@
 	transition: all 0.3s;
 }
 #wowslider-container1 .ws_bullets a:hover:after{
-	background-color: #60CAC0;
+	background-color: #E14A51;
 }
 #wowslider-container1 .ws_bullets a.ws_selbull, #wowslider-container1 .ws_bullets a:hover{
 	background-color: #fff;
@@ -221,7 +221,7 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #60CAC0;
+	background-color: #E14A51;
 	
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -272,7 +272,7 @@
 #wowslider-container1 a.ws_next, #wowslider-container1 a.ws_prev {
 	font: 2.8em "controls";
 	z-index:60;
-	color: #60CAC0;
+	color: #E14A51;
 	background-color:#fff;
 	overflow: hidden;
 	width: 1.6em;
@@ -336,7 +336,7 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_next:after {line-heigh
 }
 #wowslider-container1 a.ws_next:hover,
 #wowslider-container1 a.ws_prev:hover{
-	background-color: #60CAC0;
+	background-color: #E14A51;
 	-webkit-box-shadow: 0 0 0 0.25em rgba(255,255,255,0.3);
 	-moz-box-shadow: 0 0 0 0.25em rgba(255,255,255,0.3);
 	box-shadow: 0 0 0 0.25em rgba(255,255,255,0.3);
@@ -379,7 +379,7 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_next:after {line-heigh
 	left: 50%;
 	margin-top:-1.15em;
 	font: 2em "controls";
-	color: #60CAC0;
+	color: #E14A51;
 	background-color:#fff;
 	z-index: 59;
 	text-decoration: none;
@@ -397,7 +397,7 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_next:after {line-heigh
   	transition: all .4s ease;
 }
 #wowslider-container1 .ws_playpause:hover {
-	background-color: #60CAC0;
+	background-color: #E14A51;
 	-webkit-box-shadow: 0 0 0 0.35em rgba(255,255,255,0.3);
 	-moz-box-shadow: 0 0 0 0.35em rgba(255,255,255,0.3);
 	box-shadow: 0 0 0 0.35em rgba(255,255,255,0.3);
@@ -480,7 +480,7 @@ _:-ms-input-placeholder, :root #wowslider-container1 .ws_playpause:after {line-h
 	font-size: 1.1em;
 	padding: 0.7em;
 	line-height: 1.15em;
-	background-color:#60CAC0;
+	background-color:#E14A51;
 	color:#fff;
 	
 	-webkit-border-radius: 0.8em;
@@ -493,7 +493,7 @@ _:-ms-input-placeholder, :root #wowslider-container1 .ws_playpause:after {line-h
 	-moz-border-radius: 0.8em;
 	border-radius: 0.8em;
 	background-color:#fff;
-	color:#60CAC0;
+	color:#E14A51;
 }#wowslider-container1 .ws_images > ul{
 	animation: wsBasic 20s infinite;
 	-moz-animation: wsBasic 20s infinite;
