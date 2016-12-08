@@ -146,6 +146,7 @@ h1, h2 {
 	-webkit-transition: all 100ms ease-out;
 	transition: all 100ms ease-out;
 	text-decoration: none;
+	color:white;
 }
 
 footer {
