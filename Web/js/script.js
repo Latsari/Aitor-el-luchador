@@ -6,14 +6,6 @@ $(document).ready(function() {
    $(this).parent().addClass("active");
 });
   
-  // nav tag
-     $('nav').affix({
-      offset: {
-        top: function() { return  $('#imagen-inicial').height(); }
-      }
-     });
-  
-  // end nav
   
   function makeParallax() {
     $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
@@ -21,27 +13,16 @@ $(document).ready(function() {
   
   makeParallax();
   
-  $(window).resize(function () {
-    makeParallax();
-  });
+  // nav tag
+     $('nav').affix({
+      offset: {
+        top: function() { return  $('#imagen-inicial').height(); }
+      }
+     });
   
-  // velocidad parallax
- /* var parallax = document.querySelectorAll(".parallax"),
-      speed = 0.5;
-
-  window.onscroll = function(){
-    [].slice.call(parallax).forEach(function(el,i){
-
-      var windowYOffset = window.pageYOffset,
-          elBackgrounPos = "0 " + (windowYOffset * speed) + "px";
-
-      alert(elBackgrounPos);
-      el.style.backgroundPosition = elBackgrounPos;
-
-    });
-  };*/
-  // end velocidad parallax
+  $('nav').on('affix.bs.affix', makeParallax()); 
   
+  // end nav  
   
   $('a[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
