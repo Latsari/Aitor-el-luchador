@@ -21,7 +21,7 @@ $(document).ready(function() {
      });
   
   $('nav').on('affix.bs.affix', function() {
-    $(window).trigger('resize').trigger('scroll');
+    setTimeout(makeParallax, 100);
   }); 
   
   // end nav  
