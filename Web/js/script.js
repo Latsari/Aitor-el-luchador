@@ -7,17 +7,12 @@ $(document).ready(function() {
 });
   
   // nav tag
-  function resizeAdapt() {
      $('nav').affix({
       offset: {
-          top: $('#imagen-inicial').height()
+        function() { return  $('#imagen-inicial').height(); }
       }
      });
-  };  
   
-  resizeAdapt();
-      
-  $(window).resize(resizeAdapt);
   // end nav
   
   $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
