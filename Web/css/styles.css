@@ -95,46 +95,38 @@ h1, h2 {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: #E14A51; /* #77A193, #4E5B5C*/
 }
+/*
 .navbar-header, .navbar-nav {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: white; /* #77A193, #4E5B5C*/
-}
+	color: white; 	
+	font-size: 2em;
+}*/
 
 .navbar{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	background-color:#E14A51;
 	border-color: #E14A51;
+	color: white; 
 	font-size: 2em;
 }
+/*
 .navbar-default .navbar-nav>li>a{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: white; /* #77A193, #4E5B5C*/
-}
-.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
-    color: pink;
-    background-color: transparent;
-}
-
-.navbar-nav>li>a:hover {
-	color:grey;
+	color: white;
+}*/
+.navbar-inverse .navbar-nav > li > a:hover
+  color: #E14A51;
+  background-color: pink;
 }
 
-.navbar-default .navbar-nav > a:hover,
-.navbar-default .navbar-nav > a:focus {
-  color: pink;
-  background-color: transparent;
-}
-
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: pink;
   background-color: transparent;
 }
-
+/*
 .navbar-default .navbar-brand {
     color: white;
-}
+}*/
 
 .navbar-header>a {
 	border-bottom: 1px #fff;
