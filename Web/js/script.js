@@ -7,14 +7,6 @@ $(document).ready(function() {
 });
   
   // nav tag
-  $('nav').affix({
-    offset: {
-        top: $('#imagen-inicial').height()
-    }
-  });
-  
-  $(window).on('resize', resizeAdapt);
-  
   function resizeAdapt() {
      $('nav').affix({
       offset: {
@@ -22,6 +14,10 @@ $(document).ready(function() {
       }
      });
   };  
+  
+  resizeAdapt();
+      
+  $(window).resize(resizeAdapt);
   // end nav
   
   $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
