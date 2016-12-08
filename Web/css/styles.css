@@ -90,7 +90,12 @@ html, body {
 	font-family: Verdana;
 }
 
-h1, h2, .navbar-header, .navbar-nav {
+
+h1, h2 {
+	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
+	color: #E14A51; /* #77A193, #4E5B5C*/
+}
+.navbar-header, .navbar-nav {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: white; /* #77A193, #4E5B5C*/
 }
