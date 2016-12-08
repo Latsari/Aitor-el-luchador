@@ -127,11 +127,11 @@ h1, h2 {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	color: white;
 }*/
-.navbar-inverse .navbar-nav > li > a:hover
-  color: #E14A51;
-  background-color: pink;
-}
 
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+      color: #E14A51;
+      background-color: pink;
+}
 .navbar-default .navbar-nav > .active > a:focus {
   color: pink;
   background-color: transparent;
