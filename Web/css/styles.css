@@ -1,10 +1,6 @@
 
 @font-face {
-	/*font-family: 'Conv_BlackberryBlues';*/
 	font-family: 'Indie Flower', cursive;
-	/*src: url('../fonts/BlackberryBlues.eot');
-	src: url('../fonts/BlackberryBlues.woff') format('woff'), url('../fonts/BlackberryBlues.ttf') format('truetype'), url('../fonts/BlackberryBlues.svg') format('svg');
-	*/
 	font-weight: normal;
 	font-style: normal;
 }
@@ -94,19 +90,12 @@ html, body {
 
 
 h1, h2 {
-	/*font-family: 'Conv_BlackberryBlues', 'Arial', serif;*/
 	font-family: 'Indie Flower', cursive;
 	color: #E14A51;
 }
 .navbar-inverse .navbar-nav>li>a {
     color: white;
 }
-/*
-.navbar-header, .navbar-nav {
-	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: white; 	
-	font-size: 2em;
-}*/
 
 .navbar-inverse .navbar-nav>.active>a:hover {
     color: #E14A51;
@@ -119,18 +108,12 @@ h1, h2 {
 }
 
 .navbar{
-	/*font-family: 'Conv_BlackberryBlues', 'Arial', serif;*/
 	font-family: 'Indie Flower', cursive;
 	background-color:#E14A51;
 	border-color: #E14A51;
 	color: white; 
 	font-size: 2em;
 }
-/*
-.navbar-default .navbar-nav>li>a{
-	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: white;
-}*/
 
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
       color: #E14A51;
@@ -140,10 +123,6 @@ h1, h2 {
   color: pink;
   background-color: transparent;
 }
-/*
-.navbar-default .navbar-brand {
-    color: white;
-}*/
 
 .navbar-header>a {
 	border-bottom: 1px #fff;
