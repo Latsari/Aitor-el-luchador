@@ -4,8 +4,11 @@ $(document).ready(function() {
   $(".nav a").on("click", function(){
    $(".nav").find(".active").removeClass("active");
    $(this).parent().addClass("active");
+});  
   
-  function makeParallax() {
+  // nav tag
+       
+   function makeParallax() {
     $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
   };
   
@@ -20,11 +23,6 @@ $(document).ready(function() {
   $('nav').on('affix.bs.affix', function() {
     makeParallax();
   }); 
-});
-  
-  
-  // nav tag
-     
   
   // end nav  
   
