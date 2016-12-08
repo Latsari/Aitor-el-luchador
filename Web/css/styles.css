@@ -102,6 +102,16 @@ h1, h2 {
 	font-size: 2em;
 }*/
 
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: #E14A51;
+    background-color: pink;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus {
+    color: pink;
+    background-color: transparent;
+}
+
 .navbar{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
 	background-color:#E14A51;
