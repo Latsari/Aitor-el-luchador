@@ -115,6 +115,10 @@ h1, h2 {
     background-color: transparent;
 }
 
+.navbar-nav>li>a:hover {
+	color:grey;
+}
+
 .navbar-default .navbar-nav > a:hover,
 .navbar-default .navbar-nav > a:focus {
   color: pink;
