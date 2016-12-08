@@ -92,13 +92,13 @@ html, body {
 
 h1, h2, .navbar-header, .navbar-nav {
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: #E14A51; /* #77A193, #4E5B5C*/
+	color: white; /* #77A193, #4E5B5C*/
 }
 
 .navbar{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	background-color:#4E5B5C;
-	border-color: #4E5B5C;
+	background-color:#E14A51;
+	border-color: #E14A51;
 	font-size: 2em;
 }
 .navbar-default .navbar-nav>li>a{
@@ -106,25 +106,25 @@ h1, h2, .navbar-header, .navbar-nav {
 	color: #E14A51; /* #77A193, #4E5B5C*/
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
-    color: #77A193;
+    color: pink;
     background-color: transparent;
 }
 
 .navbar-default .navbar-nav > a:hover,
 .navbar-default .navbar-nav > a:focus {
-  color: #77A193;
+  color: pink;
   background-color: transparent;
 }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #77A193;
+  color: pink;
   background-color: transparent;
 }
 
 .navbar-default .navbar-brand {
-    color: #E14A51;
+    color: white;
 }
 
 .navbar-header>a {
