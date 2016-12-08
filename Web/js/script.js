@@ -15,10 +15,14 @@ $(document).ready(function() {
   
   // end nav
   
-  $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
+  function makeParallax() {
+    $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
+  };
+  
+  makeParallax();
   
   $(window).resize(function () {
-    $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
+    makeParallax();
   });
   
   // velocidad parallax
@@ -62,6 +66,8 @@ $(document).ready(function() {
   $window.on('scroll', revealOnScroll);
 
   function revealOnScroll() {
+    makeParallax();
+    
     var scrolled = $window.scrollTop(),
         win_height_padded = $window.height() * 1.1;
 
