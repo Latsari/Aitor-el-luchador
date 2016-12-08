@@ -4,7 +4,7 @@
  */
 @import url(https://fonts.googleapis.com/css?family=Dosis:600&subset=latin,latin-ext);
 @font-face {
-	font-family: 'Molle', cursive;
+	font-family: 'Gloria Hallelujah', cursive;
 	/*font-family: "controls";X
 	src: url("controls.eot");
 	src: url("controls.eot#iefix") format("embedded-opentype"),
@@ -315,10 +315,12 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_prev:after {line-heigh
 /* IE10+ hacks */
 _:-ms-input-placeholder, :root #wowslider-container1 a.ws_next:after {line-height: 1.9em;}
 #wowslider-container1 a.ws_next:after{
-	content:'\e801';
+	content:'>';
+	font-family: 'Gloria Hallelujah', cursive;
 }
 #wowslider-container1 a.ws_prev:after{
-	content:'\e800';
+	content:'<';
+	font-family: 'Gloria Hallelujah', cursive;
 }
 #wowslider-container1 a.ws_next:hover:after{
 	color: #fff;
@@ -414,10 +416,12 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_next:after {line-heigh
 /* IE10+ hacks */
 _:-ms-input-placeholder, :root #wowslider-container1 .ws_playpause:after {line-height: 2.6em;}
 #wowslider-container1 .ws_pause:after {
-	content: '\e803';
+	content: '=';
+	font-family: 'Gloria Hallelujah', cursive;
 }
 #wowslider-container1 .ws_play:after {
-	content: '\e802';
+	content: '|>';
+	font-family: 'Gloria Hallelujah', cursive;
 }	
 #wowslider-container1 .ws_pause:hover:after {
 	color: #fff;
