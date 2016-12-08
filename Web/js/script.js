@@ -4,23 +4,27 @@ $(document).ready(function() {
   $(".nav a").on("click", function(){
    $(".nav").find(".active").removeClass("active");
    $(this).parent().addClass("active");
-});
-  
   
   function makeParallax() {
     $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
   };
   
   makeParallax();
-  
-  // nav tag
-     $('nav').affix({
+    
+    $('nav').affix({
       offset: {
         top: function() { return  $('#imagen-inicial').height(); }
       }
      });
   
-  $('nav').on('affix.bs.affix', makeParallax()); 
+  $('nav').on('affix.bs.affix', function() {
+    makeParallax();
+  }); 
+});
+  
+  
+  // nav tag
+     
   
   // end nav  
   
