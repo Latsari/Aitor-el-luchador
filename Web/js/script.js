@@ -17,6 +17,10 @@ $(document).ready(function() {
   
   $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
   
+  $(window).resize(function () {
+    $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
+  };
+  
   // velocidad parallax
  /* var parallax = document.querySelectorAll(".parallax"),
       speed = 0.5;
