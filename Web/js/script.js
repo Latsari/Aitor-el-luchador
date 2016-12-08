@@ -9,7 +9,7 @@ $(document).ready(function() {
   // nav tag
      $('nav').affix({
       offset: {
-        function() { return  $('#imagen-inicial').height(); }
+        top: function() { return  $('#imagen-inicial').height(); }
       }
      });
   
