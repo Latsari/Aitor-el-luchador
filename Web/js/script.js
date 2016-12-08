@@ -21,7 +21,7 @@ $(document).ready(function() {
      });
   
   $('nav').on('affix.bs.affix', function() {
-    setTimeout(makeParallax, 100);
+    setTimeout(makeParallax, 2000);
   }); 
   
   // end nav  
