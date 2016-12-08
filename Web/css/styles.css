@@ -80,7 +80,7 @@
 	-webkit-animation-iteration-count: infinite;
 	-moz-animation-iteration-count: infinite;
 	animation-iteration-count: infinite;	
-	color: #4E5B5C;
+	color: #E14A51;
 }
 
 html, body {
@@ -103,7 +103,7 @@ h1, h2, .navbar-header, .navbar-nav {
 }
 .navbar-default .navbar-nav>li>a{
 	font-family: 'Conv_BlackberryBlues', 'Arial', serif;
-	color: #E14A51; /* #77A193, #4E5B5C*/
+	color: white; /* #77A193, #4E5B5C*/
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
     color: pink;
