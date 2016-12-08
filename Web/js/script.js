@@ -65,9 +65,7 @@ $(document).ready(function() {
   
   $window.on('scroll', revealOnScroll);
 
-  function revealOnScroll() {
-    makeParallax();
-    
+  function revealOnScroll() {    
     var scrolled = $window.scrollTop(),
         win_height_padded = $window.height() * 1.1;
 
