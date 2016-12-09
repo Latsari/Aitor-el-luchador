@@ -6,25 +6,11 @@ $(document).ready(function() {
    $(this).parent().addClass("active");
 });  
   
-  // nav tag
-       
- //function makeParallax() {
- //   $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
-  //};
-  
-  //makeParallax();
-    
     $('nav').affix({
       offset: {
         top: function() { return  $('#imagen-inicial').height(); }
       }
      });
-  
-  //$('nav').on('affix.bs.affix', function() {
-  //  setTimeout(makeParallax, 2000);
-  //}); 
-  
-  // end nav  
   
   $('a[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
