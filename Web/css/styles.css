@@ -53,12 +53,15 @@
 }
 
 .parallax {
-    background: transparent;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 100%;	
 }
 
 .parallax-window-1 { 
-    height: 50%;
+    background-image: url("images/Aitor1.jpg");
 }
 
 .flecha-animada {
