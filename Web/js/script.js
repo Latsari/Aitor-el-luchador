@@ -8,11 +8,11 @@ $(document).ready(function() {
   
   // nav tag
        
-   function makeParallax() {
-    $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
-  };
+ //function makeParallax() {
+ //   $('.parallax-window-1').parallax({imageSrc: 'images/Aitor1.jpg'});
+  //};
   
-  makeParallax();
+  //makeParallax();
     
     $('nav').affix({
       offset: {
@@ -20,9 +20,9 @@ $(document).ready(function() {
       }
      });
   
-  $('nav').on('affix.bs.affix', function() {
-    setTimeout(makeParallax, 2000);
-  }); 
+  //$('nav').on('affix.bs.affix', function() {
+  //  setTimeout(makeParallax, 2000);
+  //}); 
   
   // end nav  
   
