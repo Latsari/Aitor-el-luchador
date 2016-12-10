@@ -15,3 +15,4 @@ http://blog.webbb.be/trigger-css-animation-scroll/
 - Las imágenes de algunos parallax no están muy centradas
 - Ajustar tamaño del slide de Hadas
 - La sección Hadas no se ve muy fina en móviles
+- Poner en portada "Aitor: la historia de un luchador" y quitar lo de xoxo y eso xD
