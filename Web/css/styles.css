@@ -46,7 +46,7 @@
   cursor: pointer;
 }
 #imagen-inicial { 
-	background: url("../images/Aitor2.jpg") no-repeat center center fixed; 
+	background: url("../images/portada.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -69,8 +69,16 @@
 }
 
 .parallax-window-1 { 
-    background-image: url("../images/Aitor1.jpg");
-    
+    background-image: url("../images/parallax/parallax1.jpg");    
+}
+.parallax-window-2 { 
+    background-image: url("../images/parallax/parallax2.jpg");    
+}
+.parallax-window-3 { 
+    background-image: url("../images/parallax/parallax3.jpg");    
+}
+.parallax-window-4 { 
+    background-image: url("../images/parallax/parallax4.jpg");    
 }
 
 .flecha-animada {
