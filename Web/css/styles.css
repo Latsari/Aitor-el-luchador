@@ -18,6 +18,10 @@
 }
 
 .bw {
+	
+	-webkit-filter: grayscale(1);
+	filter: grayscale(1);
+	
   -webkit-transition: all 1s ease;
      -moz-transition: all 1s ease;
        -o-transition: all 1s ease;
@@ -25,8 +29,8 @@
           transition: all 1s ease;
 }
 .bw:hover {
-	-webkit-filter: grayscale(1);
-	filter: grayscale(1);
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
 }
 .pic {
     height: 200px;
