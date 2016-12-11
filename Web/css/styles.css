@@ -68,14 +68,14 @@
 .parallax-window-1 { 
     background-image: url("../images/parallax/parallax1.jpg");    
 	
-    -webkit-clip-path:polygon(0% 20%, 100% 0%,100% 100%,0% 100%);
-    clip-path:polygon(0% 20%, 100% 0%,100% 100%,0% 100%);
+    -webkit-clip-path:polygon(0% 0%, 100% 0%,100% 100%,0% 80%);
+    clip-path:polygon(0% 0%, 100% 0%,100% 100%,0% 80%);
 }
 .parallax-window-2 { 
     background-image: url("../images/parallax/parallax2.jpg");    
 	
-    -webkit-clip-path:polygon(0% 0%, 100% 0%,100% 100%,0% 80%);
-    clip-path:polygon(0% 0%, 100% 0%,100% 100%,0% 80%);
+    -webkit-clip-path:polygon(0% 20%, 100% 0%,100% 100%,0% 100%);
+    clip-path:polygon(0% 20%, 100% 0%,100% 100%,0% 100%);
 }
 .parallax-window-3 { 
     background-image: url("../images/parallax/parallax3.jpg");  
