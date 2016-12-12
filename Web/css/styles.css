@@ -16,8 +16,9 @@
 .portada{
 	font-family: 'Indie Flower', cursive;	
 	color: white; 
-	font-size: 3em;
+	font-size: 4em;
 	text-align : right;
+	vertical-align: center;
 }
 
 .texto {
