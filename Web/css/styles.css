@@ -13,6 +13,13 @@
   position: relative;
 }
 
+.portada{
+	font-family: 'Indie Flower', cursive;	
+	color: white; 
+	font-size: 3em;
+	text-align : right;
+}
+
 .texto {
     font-family: 'Quicksand', sans-serif;
 }
