@@ -17,8 +17,8 @@
 	font-family: 'Indie Flower', cursive;	
 	color: white; 
 	font-size: 4em;
-	text-align : right;
-	vertical-align: middle;
+	width: 100%;
+	text-align: right;
         position: absolute;
 	bottom: 20px;
 }
