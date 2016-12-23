@@ -13,6 +13,10 @@
   position: relative;
 }
 
+.affix-correction {
+  padding-top: 51px;
+}
+
 .portada{
     font-family: 'Indie Flower', cursive;
     color: #111111;
