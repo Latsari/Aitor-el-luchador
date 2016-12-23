@@ -19,6 +19,8 @@
 	font-size: 4em;
 	text-align : right;
 	vertical-align: middle;
+        position: absolute;
+	bottom: 20px;
 }
 
 .texto {
