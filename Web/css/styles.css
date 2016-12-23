@@ -5,6 +5,10 @@
 	font-style: normal;
 }
 
+.ws-title {
+	bottom: 1em;
+}
+
 .affix {
   top: 0px;
 }
