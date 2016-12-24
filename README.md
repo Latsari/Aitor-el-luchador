@@ -15,5 +15,3 @@ http://blog.webbb.be/trigger-css-animation-scroll/
 - Las imágenes de algunos parallax no están muy centradas ?????¿¿¿¿¿
 - Mobile menu - hide at click
 - Imágenes 50 shadows de gray bordes
-- Borde al slide
-- Arreglar puta mierda del slide
