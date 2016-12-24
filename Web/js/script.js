@@ -5,7 +5,11 @@ $(document).ready(function() {
    $(".nav").find(".active").removeClass("active");
    $(this).parent().addClass("active");
 });  
-  
+  // new
+  $('.navbar-collapse a').click(function (e) {
+        $('.navbar-collapse').collapse('toggle');
+      });
+  // end new
     $('nav').affix({
       offset: {
         top: function() { return  $('#imagen-inicial').height(); }
