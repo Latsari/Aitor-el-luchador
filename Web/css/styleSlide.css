@@ -406,7 +406,7 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_next:after {line-heigh
 	display: block;
 	text-align: center;
 	line-height: 2.3em;
-	line-height: 2.6em\9; /* ie9 hack */
+	line-height: 2.6em\9; 
 	
 	-webkit-transition: color .4s ease;
   	-moz-transition: color .4s ease;
