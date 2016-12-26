@@ -6,9 +6,9 @@ $(document).ready(function() {
    $(this).parent().addClass("active");
 });  
   // new
- /* $('.navbar-collapse a').click(function (e) {
-        $('.navbar-collapse').collapse('toggle');
-      });*/
+  $('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
   // end new
     $('nav').affix({
       offset: {
