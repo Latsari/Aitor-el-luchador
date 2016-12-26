@@ -17,6 +17,14 @@
   position: relative;
 }
 
+.offset:before { 
+	display: block; 
+ 	content: " "; 
+  	height: 51px;      /* Give height of your fixed element */
+        margin-top: -51px; /* Give negative margin of your fixed element */  	
+        visibility: hidden; 
+}
+
 .portada{
     font-family: 'Indie Flower', cursive;
     color: #111111;
