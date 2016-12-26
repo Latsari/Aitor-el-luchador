@@ -21,6 +21,10 @@ body {
   position: relative;
 }
 
+.affix,.navbar-fixed-top {
+-webkit-transform: scale3d(1,1,1);
+}
+
 .portada{
     font-family: 'Indie Flower', cursive;
     color: #111111;
