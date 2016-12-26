@@ -6,9 +6,9 @@ $(document).ready(function() {
    $(this).parent().addClass("active");
 });  
   // new
-  $('.navbar-collapse a').click(function (e) {
+ /* $('.navbar-collapse a').click(function (e) {
         $('.navbar-collapse').collapse('toggle');
-      });
+      });*/
   // end new
     $('nav').affix({
       offset: {
@@ -29,8 +29,6 @@ $(document).ready(function() {
     }
   });
   
-  /*
-
   // Animación
   var $window           = $(window),
       win_height_padded = $window.height() * 1.1,
@@ -71,5 +69,4 @@ $(document).ready(function() {
 
   revealOnScroll();
   
-  */
 });
