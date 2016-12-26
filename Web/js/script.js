@@ -28,6 +28,8 @@ $(document).ready(function() {
       }
     }
   });
+  
+  /*
 
   // Animación
   var $window           = $(window),
@@ -68,4 +70,6 @@ $(document).ready(function() {
   }
 
   revealOnScroll();
+  
+  */
 });
