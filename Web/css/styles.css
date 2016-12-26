@@ -5,6 +5,10 @@
 	font-style: normal;
 }
 
+body {
+	position: relative;
+}
+
 .ws-title {
 	bottom: 10%;
 }
