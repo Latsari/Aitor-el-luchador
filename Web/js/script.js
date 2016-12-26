@@ -16,8 +16,29 @@ $(document).ready(function() {
       }
      });
   
-  $('a[href*="#"]:not([href="#"])').click(function() {
+  $('a[href*="#"]:not([href="#"])').click(function(event) {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      if (this.hash !== "") {
+
+          // Prevent default anchor click behavior
+          event.preventDefault();
+
+          // Store hash
+          var hash = this.hash;
+
+          // Using jQuery's animate() method to add smooth page scroll
+          // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+          $('html, body').animate({
+            scrollTop: $(hash).offset().top
+          }, 800, function(){
+
+          // Add hash (#) to URL when done scrolling (default click behavior)
+            window.location.hash = hash;
+          });
+
+        } // End if
+      
+      /*
       var target = $(this.hash);
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
       if (target.length) {
@@ -26,6 +47,7 @@ $(document).ready(function() {
         }, 300);
         return false;
       }
+      */
     }
   });
   
