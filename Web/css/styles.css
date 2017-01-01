@@ -9,6 +9,10 @@ body {
 	position: relative;
 }
 
+#wowslider-container1 {
+	margin-bottom: 10px;
+}
+
 .ws-title {
 	bottom: 10%;
 }
