@@ -28,7 +28,7 @@ $(document).ready(function() {
 
           // Using jQuery's animate() method to add smooth page scroll
           // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-        //if ( $("nav").hasClass("affix")) {
+        if ( $("nav").hasClass("affix")) {
           $('html, body').animate({
             scrollTop: $(hash).offset().top// - 51
           }, 800, function(){
@@ -36,15 +36,15 @@ $(document).ready(function() {
           // Add hash (#) to URL when done scrolling (default click behavior)
             window.location.hash = hash;
           });
-      //} else {
-      //    $('html, body').animate({
-      //      scrollTop: $(hash).offset().top - 120
-      //    }, 800, function(){
+      } else {
+          $('html, body').animate({
+            scrollTop: $(hash).offset().top - 69
+          }, 800, function(){
 
           // Add hash (#) to URL when done scrolling (default click behavior)
-      //      window.location.hash = hash;
-      //    });
-      //}
+           window.location.hash = hash;
+          });
+      }
 
         } // End if
       
