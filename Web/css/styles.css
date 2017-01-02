@@ -9,11 +9,6 @@ body {
 	position: relative;
 }
 
-.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
-    margin-right: 0;
-    margin-left: 0;
-}
-
 @media (min-width: 768px) and (max-width: 1000px) {
 	.navbar-nav {
 	    font-size: 0.7em;
