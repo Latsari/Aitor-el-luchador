@@ -15,7 +15,13 @@ body {
 	padding: 10px 15px;
 }
 
-@media (min-width: 768px) and (max-width: 1000px) {
+@media (min-width: 768px) and (max-width: 800px) {
+	.navbar-nav {
+	    font-size: 0.6em;
+	}
+}
+
+@media (min-width: 801px) and (max-width: 1000px) {
 	.navbar-nav {
 	    font-size: 0.7em;
 	}
