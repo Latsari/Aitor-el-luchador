@@ -9,6 +9,10 @@ body {
 	position: relative;
 }
 
+.navbar-header {
+    float: left;
+}
+
 .anchor {
 	padding-top: 51px;
 }
