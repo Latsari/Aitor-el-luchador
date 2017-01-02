@@ -13,6 +13,13 @@ body {
     float: left;
 }
 
+
+@media (min-width: 768px) and (max-width: 1000px) {
+	.navbar-nav {
+	    font-size: 0.7em;
+	}
+}
+
 .anchor {
 	padding-top: 51px;
 }
