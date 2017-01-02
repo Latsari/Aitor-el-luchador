@@ -9,6 +9,12 @@ body {
 	position: relative;
 }
 
+.navbar-title {
+	color: white;	
+    	line-height: 20px;
+	padding: 10px 15px;
+}
+
 @media (min-width: 768px) and (max-width: 1000px) {
 	.navbar-nav {
 	    font-size: 0.7em;
