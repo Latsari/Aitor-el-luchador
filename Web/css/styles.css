@@ -9,6 +9,10 @@ body {
 	position: relative;
 }
 
+.anchor {
+	padding-top: 51px;
+}
+
 #wowslider-container1 {
 	margin-bottom: 10%;
 }
