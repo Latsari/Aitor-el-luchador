@@ -463,11 +463,11 @@ _:-ms-input-placeholder, :root #wowslider-container1 .ws_playpause:after {line-h
 	position: absolute;	
 	margin-right:10em;
 	z-index: 50;
-    color: #FFFFFF;
+        color: #FFFFFF;
 	left: 1em;
 	background: none;
 	padding: 1em;
-	font: 1.3em 'Indie Flower', sans-serif;
+	font: 1.5em 'Indie Flower', sans-serif;
 	bottom: 2em;
 	top: auto;
 	opacity: 1;
